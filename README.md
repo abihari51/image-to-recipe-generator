@@ -1,4 +1,4 @@
-# image-to-recipe-generator
+
 # 🥘 Image to Recipe Generator
 
 This project uses BLIP and GPT-2 to generate a recipe from an uploaded food image using a Gradio UI.
